@@ -1,0 +1,24 @@
+{
+  "name": "method_relay",
+  "version": "1.0.0",
+  "description": "method_relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txl910514/method_relay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txl910514/method_relay/issues"
+  },
+  "homepage": "https://github.com/txl910514/method_relay#readme",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
